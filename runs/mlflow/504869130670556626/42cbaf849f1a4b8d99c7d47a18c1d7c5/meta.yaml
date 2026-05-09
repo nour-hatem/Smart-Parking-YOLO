@@ -1,0 +1,14 @@
+artifact_uri: /home/nour/Smart Parking YOLO/runs/mlflow/504869130670556626/42cbaf849f1a4b8d99c7d47a18c1d7c5/artifacts
+end_time: 1778343053656
+entry_point_name: ''
+experiment_id: '504869130670556626'
+lifecycle_stage: active
+run_id: 42cbaf849f1a4b8d99c7d47a18c1d7c5
+run_name: parking_yolo_demo
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778342613515
+status: 3
+tags: []
+user_id: nour
