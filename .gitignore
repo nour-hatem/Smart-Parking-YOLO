@@ -218,3 +218,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Dataset files - https://www.kaggle.com/datasets/trainingdatapro/parking-space-detection-dataset?resource=download
+dataset/boxes
+dataset/images
+dataset/labels
+frames
+preprocessing/frames
